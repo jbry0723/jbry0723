@@ -2,7 +2,7 @@ Welcome to my Github!
 
 I am a web developer who is seeking work in the New Orleans/Baton Rouge/Slidell LA area.
 
-I completed Lambda School's Full Stack Web Development cirrculum. My with skills focused in:
+I completed Lambda School's Full Stack Web Development cirrculum. My skills are focused in:
 
 JavaScript | Python | HTML | CSS | Agile | Git | Node.js | SQL | React | Redux | Jest | Knex | PostgresSQL
 
